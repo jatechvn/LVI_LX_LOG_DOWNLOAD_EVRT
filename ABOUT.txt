@@ -1,0 +1,1 @@
+LVI_LX_LOG_DOWNLOAD_EVRT is an application developed in Python.
