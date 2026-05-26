@@ -1,0 +1,64 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Application Logs & Temporary Files
+logs/*.log
+assets/temp/
+
+# Download Files
+downloads/
+
+# IDE and System Files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+
+# Virtual environment
+
+# Python cache / compiled files
+*.py[cod]
+*$py.class
+
+# Build output
+build/
+dist/
+build_pyinstall/
+build_nuitka/
+*.spec
+
+# Logs and temporary files
+
+# Local IDE / OS files
+.DS_Store
+
+# Personal config - uncomment if config has password/token/key
+# config.ini
+# config.json
+
+# License thật tuyệt đối không commit
+license.key
+
+# Virtual environment
+
+# Python cache / compiled files
+
+# Build output
+
+# Logs and temporary files
+
+# Local IDE / OS files
+
+# Personal config - uncomment if config has password/token/key
+# config.ini
+# config.json
+
+# License thật tuyệt đối không commit

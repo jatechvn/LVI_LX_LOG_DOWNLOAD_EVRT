@@ -1,0 +1,35 @@
+# Global Constants for JA Log Downloader EVRT
+
+# Window and Application
+APP_NAME = "JA Log Downloader EVRT - Liquid Glass"
+APP_TITLE = "JA LOG DOWNLOADER (EVERYTHING HTTP)"
+DEFAULT_WIDTH = 1050
+DEFAULT_HEIGHT = 650
+
+# Fonts
+FONT_PRIMARY = "Inter"
+FONT_MONO = "JetBrains Mono"
+
+# Date/Time Formats
+DATETIME_FORMAT_UI = "yyyy-MM-dd HH:mm"
+DATETIME_FORMAT_PYTHON = "%Y-%m-%d %H:%M"
+DATE_FORMAT_PYTHON = "%Y-%m-%d"
+TIME_FORMAT_LOGS = "%H:%M:%S"
+
+# Theme Colors (QSS Styles)
+COLOR_PRIMARY_START = "#00d4ff"
+COLOR_PRIMARY_END = "#0056ff"
+COLOR_PRIMARY_START_HOVER = "#00e5ff"
+COLOR_PRIMARY_END_HOVER = "#0066ff"
+
+COLOR_CLOSE_NORMAL = "#ff5f56"
+COLOR_CLOSE_BORDER = "#e0443e"
+COLOR_CLOSE_HOVER = "#ff7b72"
+
+COLOR_MIN_NORMAL = "#ffbd2e"
+COLOR_MIN_BORDER = "#dea123"
+COLOR_MIN_HOVER = "#ffca52"
+
+COLOR_MAX_NORMAL = "#27c93f"
+COLOR_MAX_BORDER = "#1aab29"
+COLOR_MAX_HOVER = "#38e04f"
